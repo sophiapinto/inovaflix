@@ -5,71 +5,51 @@
       "link": "https://www.inova.ma.gov.br/",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Venha conhecer a Secti - MA",
-        "url": "http://www.secti.ma.gov.br/"
+        "text": "Conhecendo nosso canal do YouTube",
+        "url": "https://www.youtube.com/c/InovaMaranh%C3%A3o"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Cultura de Games | Live Inova Maranhão",
+          "url": "https://www.youtube.com/watch?v=1Q7R4gmjWRc"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Tutorial Comunidade Virtual (Discord)",
+          "url": "https://www.youtube.com/watch?v=sUbX9cvcLG0"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "INOVA MARANHÃO | CANVAS DE MODELO DE NEGÓCIO",
+          "url": "https://www.youtube.com/watch?v=eTu3RnExQ-s"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
+          "titulo": "INOVA MARANHÃO | CONSTRUINDO A SUA SOLUÇÃO",
           "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
-        },
-        {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+        }      
       ]
     },
     {
       "titulo": "Maratoninha Maker",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Maratoninha Maker Timon-MA",
-        "url": "https://www.youtube.com/watch?v=iMPq1OTRdv4"
+        "text": "Projeto do Eixo Educação",
+        "url": "https://youtu.be/tAGgjGE8VTc"
       },
       "videos": [
         {
+          "titulo": "Maratoninha Maker em Timon",
+          "url": "https://youtu.be/iMPq1OTRdv4"
+        },
+        {
+          "titulo": "Piloto Maratoninha Maker Virtual",
+          "url": "https://youtu.be/tAGgjGE8VTc"
+        },
+        {
+          "titulo": "Evento Maratoninha Maker",
+          "url": "https://youtu.be/ClWWe7DxoCA"
+        },
+        {
           "titulo": "Maratoninha Maker em Timon | Facebook",
           "url": "https://www.facebook.com/sectima/videos/747134305766405/?t=0"
-        },
-        {
-          "titulo": "TVASSEMBLEIA MARANHAO - Maratoninha Maker",
-          "url": "https://www.youtube.com/watch?v=_urqkNvAEms"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
         }
       ]
     },
@@ -77,32 +57,60 @@
       "titulo": "Inova, Galera!",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Projeto do Eixo Educação | Robótica",
+        "url": "https://www.youtube.com/c/InovaMaranh%C3%A3o"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "VOU APRENDER TYPESCRIPT (3 motivos)",
+          "url": "https://youtu.be/M57zuClvRbM"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Porto Digital | 15 anos",
+          "url": "https://youtu.be/OJuXvdyo1WU"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Why Neuralink Will Change Humanity Forever",
+          "url": "https://youtu.be/39OHcCpt0Ds"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Conheça o Zaitt, o primeiro mercado 100% autônomo da América Latina, no Itaim, em SP",
+          "url": "https://youtu.be/RRmEI6oLmcE"
+        },
+        {
+          "titulo": "A história da Boston Dynamics e seus robôs assustadores – TecMundo",
+          "url": "https://youtu.be/ApcJva6NWjo"
         }
       ]
     },
     {
       "titulo": "Filmes",
       "cor": "orange",
+      "link_extra":{
+        "text": "Indicação de filme",
+        "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+      },
       "videos": [
+        {
+          "titulo": "Estrelas além do tempo",
+          "url": "https://youtu.be/wx3PVtrU-Os"
+        },
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "A rede social",
+          "url": "https://youtu.be/lB95KLmpLR4"
+        },
+        {
+          "titulo": "Steve Jobs",
+          "url": "https://youtu.be/aEr6K1bwIVs"
+        },
+        {
+          "titulo": "A teoria de tudo",
+          "url": "https://youtu.be/Salz7uGp72c"
+        },
         {
           "titulo": "Orgulho e Preconceito",
           "url": "https://www.youtube.com/watch?v=fJA27Jujzq4"
@@ -126,63 +134,55 @@
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Gameificação",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Indicação de jogos",
+        "url": "https://www.youtube.com/c/InovaMaranh%C3%A3o"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-        },
-        {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-        },
-        {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "A gamificação no cotidiano | Ciência é Tudo",
+          "url": "https://youtu.be/SC4umAAPfAs"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Tecnologia",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Arduino",
+        "url": "https://www.youtube.com/watch?v=mZNHO-5Ctis"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Arduino em 15 minutos, começando rápido do ZERO - Jeyson Cruz",
+          "url": "https://www.youtube.com/watch?v=mZNHO-5Ctis"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Vamos conhecer o arduino?",
+          "url": "https://www.youtube.com/watch?v=UBkC3I2Gmgg"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Arduino para crianças",
+          "url": "https://www.youtube.com/watch?v=xYlsopsAwRw&ab_channel=CanaldoVini"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Playlist brinquedos inteligentes com arduino",
+          "url": "https://www.youtube.com/watch?v=3KcG4L928-Y&list=PL7CjOZ3q8fMeXU5zBJgngxxiFKaZzgFk-"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
-        }
+          "titulo": "Curso de Arduino para Iniciantes - Primeiros Passos",
+          "url": "https://www.youtube.com/playlist?list=PL7CjOZ3q8fMe3KCjvLPid3xD3VvOUPdvU"
+       },
+       {
+         "titulo": "Curso de Arduino para Iniciantes: O Básico - aprendendo na pratica",
+         "url": "https://www.youtube.com/playlist?list=PL7CjOZ3q8fMe6SX8XWYw85KruVXI64wA6"
+       },
+       {
+        "titulo": "Arduino do Básico ao Intermediário",
+        "url": "https://www.youtube.com/playlist?list=PL7CjOZ3q8fMc3OmT7gD7N6sLLFfXsXGZi"
+      }
       ]
     }
   ]

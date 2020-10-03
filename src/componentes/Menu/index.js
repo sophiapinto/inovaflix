@@ -12,10 +12,10 @@ function Menu() {
             <img className="Logo" src={Logo} alt="Logo da YllionFlix" />
         </Link>
 
-        <Button as= {Link} className="ButtonLink" to="cadastro/video">
+        <Button as= {Link} className="ButtonLink" to="Ranking">
             RANKING MM
         </Button>
     </nav>
     )
 }
-export default Menu
+export default Menu;
